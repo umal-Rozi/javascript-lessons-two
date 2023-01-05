@@ -1,0 +1,14 @@
+what is the javascript?
+_ is the progamming language
+
+
+_nodejs
+_ express
+_ `
+
+
+ECMAscript
+
+
+
+ES6___________ES10
